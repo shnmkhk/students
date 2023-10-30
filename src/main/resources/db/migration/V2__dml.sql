@@ -1,0 +1,3 @@
+-- INSERT INTO genre (id, name) values (1, 'Science Fiction');
+-- INSERT INTO genre (id, name) values (2, 'Romance Comedy');
+-- INSERT INTO genre (id, name) values (3, 'Horror');
